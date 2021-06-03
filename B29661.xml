@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Several affidavits lately taken upon oath by divers of His Majesties justices of the peace which further confirm the testimony given, concerning the murder of Sir Ed. Bury Godfrey : together with part of the last will of Fenwick, the Jesuit, that was executed for high treason.</title>
+         </titleStmt>
+         <extent>Approx. 33KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29661</idno><idno type="EEBO-CITATION">27960879</idno>
+  <idno type="VID">205793</idno>
+  <idno type="EEBO-PROQUEST">2240897189</idno>
+  
+            <idno type="STC">Wing S2749</idno>
+            <idno type="OCLC">27960879</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29661)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205793)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1732:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Several affidavits lately taken upon oath by divers of His Majesties justices of the peace which further confirm the testimony given, concerning the murder of Sir Ed. Bury Godfrey : together with part of the last will of Fenwick, the Jesuit, that was executed for high treason.</title>
+               </titleStmt>
+               <extent>53 [i.e. 17] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Simmons ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Pages 5-17 numbered 41-53 respectively.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Godfrey, Edmund Berry, --  Sir, 1621-1678.</term>
+               <term type="topical_term">Popish Plot, 1678.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:205793:1"/>
+            <p>SEVERAL AFFIDAVITS Lately taken upon OATH; By divers of His Majesties Justices of the PEACE. Which further confirm the TESTIMONY given, Concerning the MURDER OF Sir Ed. Bury Godfrey.</p>
+            <p>Together With Part of the <hi>Last Will</hi> of FENWICK, the Jesuit, that was Executed for High Treason.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Tho. Simmons,</hi> at the <hi>Princes Arms</hi> in <hi>Ludgate-Street,</hi> 1683.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:205793:2"/>
+            <pb n="3" facs="tcp:205793:2"/>
+            <head>SEVERAL AFFIDAVITS Which further confirm the TESTIMONY Given concerning the MURDER OF Sir Ed. Bury-Godfrey.</head>
+            <p>AS it hath been of late by many Learned Pens, made appear, That the Papists do justifie and countenance, nay, esteem Meritorious, <hi>Rebellions, Murders,</hi> and <hi>Massacres,</hi> against any Protestant Prince or People (whom they reckon <hi>Hereticks</hi>) for the Advancement of their <hi>Reli<g ref="char:EOLhyphen"/>gion;</hi> so 'tis as well known, that if those <hi>Rebellions, Murders,</hi> and <hi>Massacres,</hi> be Discovered, they can (if they shall think them needful) have Dispensations to <hi>Forswear, Lie, Equi<g ref="char:EOLhyphen"/>vocate, do any thing,</hi> to make the World believe that they are <hi>Innocent,</hi> or make <hi>Protestants</hi> themselves appear <hi>Guilty</hi> of them. That there hath been a <hi>Popish Plot,</hi> (and despe<g ref="char:EOLhyphen"/>rate one too) in <hi>England,</hi> for the Subversion of the <hi>Prote<g ref="char:EOLhyphen"/>stant Religion,</hi> and <hi>Established Government,</hi> I think no man doubts, only some persons whose Interest it is, may deny it. And amongst the several concurring Evidences of this <hi>Po<g ref="char:EOLhyphen"/>pish Conspiracy,</hi> the Murder of that worthy Gentleman and Magistrate, Sir <hi>Edmond Bury Godfrey,</hi> by that Party, hath not been the least, That which induced the <hi>Papists</hi> to this <hi>Murder,</hi> (as well as can be guessed by those who are Stran<g ref="char:EOLhyphen"/>gers to that Wicked Action) was one or both of these Considerations; namely, the hopes of finding and seizing the Examination of Dr▪ <hi>Oats</hi> about the damnable <hi>Popish
+<pb n="4" facs="tcp:205793:3"/> Plot</hi> which he had taken, and used to carry about with him, by which they thought to stifle the Plot: Or else they thought, by this Murder, to affrighten all active Magis<g ref="char:EOLhyphen"/>trates from being Vigorous in the future Examination, and further prosecution of their <hi>Horrid Conspiracy,</hi> though (through God's providence) they have been very much Disappointed in both these Ends.</p>
+            <p>And the <hi>Papists</hi> are so sensible how much this <hi>Murder</hi> pinches them, that after the Conviction and Execution of the persons for that <hi>Murder,</hi> no discouragements or dan<g ref="char:EOLhyphen"/>gers they incur (by affronting and arraigning the pub<g ref="char:EOLhyphen"/>lick Justice of the Kingdom) hath been able to Deter them from impudent Attemps (impudent I may say, the rather, because done under a <hi>Protestant-Government</hi>) to sham off that <hi>Murder</hi> from themselves, and making the whole Prosecution to be only a Design and Contrivance of the <hi>Protestants</hi> against them. Witness first, that noto<g ref="char:EOLhyphen"/>rious Sham of <hi>James Magrath</hi> an <hi>Irish</hi>-man, who (being assisted by the <hi>Popish Priests</hi> in <hi>Newgate,</hi> Mrs. <hi>Cellier,</hi> and Mrs. <hi>Gibbon,</hi> and others) pretended there were those that could make it appear, and prove, That Sir <hi>Edmon-Bury-Godfrey</hi> Hanged himself, and that one <hi>Moor,</hi> who was Clerk to Sir <hi>Edmon-Bury-Godfrey</hi> Cut him down, finding him Hanging. Which matter being Examined at the Council Board, and appearing to their Honours to be a false and malicious Contrivance, the said <hi>Magrath</hi> was dismissed with security for his Appearance, and that Pro<g ref="char:EOLhyphen"/>ject fell to the ground. But for the further Satisfaction of the World (though I think no body did believe that Idle Story) I shall here insert Mr. <hi>Moors</hi> Affidavit.</p>
+            <div type="affidavit">
+               <head>The Affidavit of <hi>Henry Moore.</hi>
+               </head>
+               <p>
+                  <hi>HEnry Moore,</hi> late Servant and Clerk to Sir <hi>Edmond-Bury-Godfrey,</hi> Deceased, maketh Oath, That upon <hi>Saturday</hi> the 12th. of <hi>October,</hi> 1678. his said Ma<g ref="char:EOLhyphen"/>ster having Persons come before him about <hi>Justice-business,</hi> till about <hi>Nine</hi> of the Clock in the Forenoon: when the
+<pb n="41" facs="tcp:205793:3"/> Company were gone, he bade me help him on with his Coat, which I did; and immediately he made me pull it off again, and give him another Coat, which I did; and then he girt his Sword about him, and went out from his House, which was the last time I saw him, till after he was found Dead in the Fields, which was the <hi>Thurs<g ref="char:EOLhyphen"/>day</hi> following. The Constable of St. <hi>Giles in the Fields,</hi> and several others with him, came to my Master's House, and told us, that Sir <hi>Edmund-Bury-Godfrey</hi> was found Dead, and laid in a Ditch at <hi>Primrose-Hill,</hi> and a Sword thrust through him; and said, he had caused him to be carried to the <hi>White-House:</hi> This being late at Night, the next Day my Masters two Brothers, and Sisters, and my self, went thither; and then I saw him lye upon a Table in the House where the Constable had laid him, which was the first time that I saw him, after he went out of his own House, on <hi>Saturday</hi> the <hi>12th</hi> of <hi>October,</hi> 1678. And then we brought him Home to his own House; And as I am Informed that there are several Scandalous <hi>Papers,</hi> and Words given out, That Sir <hi>Edmund-Bury-Godfrey</hi> Hang<g ref="char:EOLhyphen"/>ed himself; and that they do Affirm, That I, the said <hi>Henry Moore,</hi> should say that I Cut him down; I do here<g ref="char:EOLhyphen"/>by Depose, That the said Report is utterly false; and that I did not Cut him down, nor ever said any such words to any Person whatsoever; or ever said that Sir <hi>Ed<g ref="char:EOLhyphen"/>mund-Bury▪ Godfrey made away</hi> himself, or words to that Ef<g ref="char:EOLhyphen"/>fect: Which said Scandals are all False and Notorious Lies,</p>
+               <closer>
+                  <signed>Henry Moore.</signed>
+               </closer>
+            </div>
+            <div type="affidavit">
+               <head>
+                  <hi>June</hi> the <hi>28th.</hi> 1681.</head>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <p>
+                        <hi>HEnry Moore</hi> of <hi>Littleport</hi> in the Isle of <hi>Ely,</hi> and▪ County of <hi>Cambridge,</hi> made Oath before me <hi>William Balam,</hi> one of His Majesties Justices for the said Isle; that this, which is contained in the above written Affidavit is true, and nothing but Truth. In Witness whereof, I have here<g ref="char:EOLhyphen"/>unto set my Hand and Seal, the Day and Year above Writ<g ref="char:EOLhyphen"/>ten,</p>
+                     <closer>
+                        <signed>William Balam.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <pb n="42" facs="tcp:205793:4"/>
+               <p>Yet, though this Matter had proved so unsuccessful, they could not be quiet, but must make one Experiment more, and that is contrary to the former: For now they Declare, that he <hi>made away</hi> himself (so far they agree with <hi>Magrath</hi>) but it was by running his Sword through his own Body. And <hi>Thompson, Farewell,</hi> and <hi>Pain,</hi> are the Men that are to Manage this <hi>New Invention;</hi> and they Write and Print the Scandalous Letters and Libels you find in their Trial: And lest any one should dare to Question the Truth of them, they boast, they can prove their Assertions by <hi>Five Hundred</hi> Witnesses. Every Body thought the Murder sufficiently proved upon the Trial of <hi>Green, Berry,</hi> and <hi>Hill,</hi> and were amazed to hear such a Declaration, thinking it hardly possible for Men to be so Impudent, publickly to declare, they had <hi>Five Hundred</hi> Witnesses to Prove a Matter, when they had not one, as may be seen by their Trial; for every Witness made against them; and further proved, that he was <hi>Murdered,</hi> and that by <hi>Strangling.</hi> But for these Scandalous Libels, they were brought before His Majesties most Honourable <hi>Privy Council,</hi> who (upon their owning those Libels) com<g ref="char:EOLhyphen"/>mitted them to <hi>Newgate,</hi> and ordered the <hi>Attorny General</hi> to Prosecute them; and accordingly you find by the Tri<g ref="char:EOLhyphen"/>all he did; and they were Convicted, and have since re<g ref="char:EOLhyphen"/>ceived Judgment, and that Judgment hath been Execu<g ref="char:EOLhyphen"/>ted. But though the Murder was clearly proved at the Trial of <hi>Green, Berry,</hi> and <hi>Hill;</hi> and though after all these Brags, that <hi>Thompson, Farewell,</hi> and <hi>Paine,</hi> made, That they could prove so much at their Trial, they could make out nothing; and so it was not necessary to call any more Witnesses for the <hi>King</hi> then; yet for the further Satisfacti<g ref="char:EOLhyphen"/>on of the World, it hath been thought fit to Print (be<g ref="char:EOLhyphen"/>sides what is Printed with the Trial, upon giving Judg<g ref="char:EOLhyphen"/>ment) the following <hi>Five</hi> Affidavits all agreeing with Mr. <hi>Prance</hi>'s Testimony upon the Trial of <hi>Green, Berry,</hi> and <hi>Hill;</hi> and as to the first <hi>Four</hi> of them, see <hi>John Oakly</hi>'s Af<g ref="char:EOLhyphen"/>fidavit, Printed in the Trial, at <hi>pag.</hi> 35.</p>
+            </div>
+            <div type="affidavit">
+               <pb n="43" facs="tcp:205793:4"/>
+               <head>The Affidavit of <hi>Elizabeth Dekin.</hi>
+               </head>
+               <p>
+                  <hi>ELizabeth Dekin,</hi> Servant to Mr. <hi>Robert Breed<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n,</hi> of <hi>Harts-horn-Lane,</hi> in the Parish of St. <hi>Martins in the Fields,</hi> in the County of <hi>Middlesex,</hi> Brewer, maketh Oath, That about <hi>two</hi> or <hi>three</hi> Dayes after the Rumour was Pub<g ref="char:EOLhyphen"/>lished, That Sir <hi>Edmund-Bury▪</hi> was missing, her fellow servant, <hi>John Oakely,</hi> told her, this Deponent, That he saw Sir <hi>Edmund-Bury-Godfrey,</hi> near the <hi>Water-gate</hi> at <hi>Sommerset-House</hi> in the <hi>Strand,</hi> about <hi>Nine</hi> of the Clock that very <hi>Saturday</hi> Night that he was first Missing, from his House in <hi>Harts-horn-Lane;</hi> and that there was then a Man or two near the said Sir <hi>Edmund-Bury-Godfrey:</hi> And this De<g ref="char:EOLhyphen"/>ponent further saith, That her said Master, <hi>Robert Bree<g ref="char:EOLhyphen"/>dan,</hi> asking her (before the Body of Sir <hi>Edmund-Bury-God<g ref="char:EOLhyphen"/>frey</hi> was found) what News there was about Sir <hi>Edmund-Bury-Godfrey?</hi> She, this Deponent, told him, That she heard no News of him, but that her Fellow Servant, <hi>John Oakely,</hi> had told her, That he met Sir <hi>Edmund-Bury-Godfrey</hi> near the <hi>Water-gate</hi> at <hi>Sommerset-House,</hi> the very <hi>Saturday</hi> Night he was first Missing from his House in <hi>Harts-horn-Lane.</hi> And this Deponent further saith, That she then asked the said <hi>John Oakely,</hi> If he was sure it was Sir <hi>Ed<g ref="char:EOLhyphen"/>mund?</hi> And he replied, he was very sure it was he, for he put off his Hat to Sir <hi>Edmund-Bury-Godfrey,</hi> as he pas<g ref="char:EOLhyphen"/>sed by him; and Sir <hi>Edmund-Bury-Godfrey</hi> put off his Hat to him again: And he also told her, That when he had past Sir <hi>Edmund-Bury-Godfrey,</hi> he, the said <hi>John Oakely</hi> look<g ref="char:EOLhyphen"/>ing back again, saw Sir <hi>Edmund-Bury-Godfrey</hi> stand still, and a Man or two hard by him,</p>
+               <closer>
+                  <dateline>Jurat <date>22 Die Junij. 1682.</date>
+                  </dateline>
+                  <signed> coram me. John Moore, <hi>Mayor.</hi>
+                  </signed>
+                  <signed>Elizabeth Dekin.</signed>
+               </closer>
+            </div>
+            <div type="affidavit">
+               <pb n="44" facs="tcp:205793:5"/>
+               <head>The Affidavit of <hi>Robert Breedon.</hi>
+               </head>
+               <p>
+                  <hi>RObert Breedon</hi> of <hi>Harts-horn-Lane</hi> in the Parish of St. <hi>Martins in the Fields,</hi> in the County of <hi>Middlesex,</hi> Brewer, maketh Oath, That one Night, betwixt <hi>Saturday</hi> the <hi>12th</hi> Day of <hi>October,</hi> in the Year of our <hi>Lord, One Thousand Six Hundred and Seventy Eight,</hi> and before the Body of Sir <hi>Edmund-Bury-Godfrey</hi> was found, he coming Home to his House about <hi>Nine</hi> of the Clock at Night, asked his Servant Maid, <hi>Elizabeth Dekin,</hi> If there were yet any News of Sir <hi>Edmund-Bury-Godfrey</hi>'s being found? or words to that purpose: who replyed, That she heard nothing of his being found; But told him, That her Fellow Servant, <hi>John Oakely,</hi> did positively Affirm, That he met Sir <hi>Edmund-Bury-Godfrey</hi> near the <hi>Water-gate</hi> at <hi>Sommerset-House</hi> in the <hi>Strand,</hi> that very <hi>Saturday</hi> Night about <hi>Nine</hi> of the Clock, being the same <hi>Saturday</hi> that he was first Missed from his House in <hi>Harts-horn-Lane;</hi> to which this Deponent replied, Sure <hi>John</hi> is mistaken: To which <hi>Elizabeth Dekin</hi> answered, <hi>John Oakely</hi> said, he was sure it was he; for when he met him, he put off his Hat to Sir <hi>Edmund-Bury-Godfrey,</hi> and Sir <hi>Edmund-Bury-Godfrey</hi> put off his Hat to him again.</p>
+               <closer>
+                  <dateline>Jurat. <date>22. Die Junij. 1682.</date>
+                  </dateline>
+                  <signed>coram me. John Moore, <hi>Mayor.</hi>
+                  </signed>
+                  <signed>Robert Breedon.</signed>
+               </closer>
+            </div>
+            <div type="affidavit">
+               <pb n="45" facs="tcp:205793:5"/>
+               <head>The Affidavit of <hi>Ralph Oakeley.</hi>
+               </head>
+               <p>
+                  <hi>RAlph Oakeley▪</hi> Citizen and <hi>Skinner,</hi> maketh Oath, That he was an Inhabitant in the Parish of Little St. <hi>Bartholomews, Lon<g ref="char:EOLhyphen"/>don▪</hi> in the Month of <hi>October</hi> 1678. and that <hi>John Oakely</hi> his Nephew, was then and is now a Servant to Mr. <hi>Robert Breedon,</hi> of <hi>Harts-horn Lane</hi> in the Parish of St. <hi>Martins</hi> in the Fields, in the County of <hi>Middlesex, Brewer.</hi> And this Deponent farther saith, that soon af<g ref="char:EOLhyphen"/>ter that the dead Body of Sir <hi>Edinond-Bury Godfrey</hi> was found, his said Nephew, <hi>John Oakely,</hi> came to this Deponents House in a Visit, being as this Deponent believes, about the Sunday after that Sir <hi>Edmond-Bury Godfreys</hi> Body was found. And they falling into dis<g ref="char:EOLhyphen"/>course of Sir <hi>Edmond-Bury Godfrey</hi>'s being found murdered, his said Nephew <hi>John Oakely</hi> then told him this Deponent, That as he was going home to his Mr. <hi>Breed<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ns</hi> in <hi>Harts-horn-Lane,</hi> after that he had parted with his Father <hi>Robert Oakely,</hi> about <hi>Ludgate,</hi> he met Sir <hi>Edmond-Bury Godfrey</hi> about nine of the Clock at night, near the wa<g ref="char:EOLhyphen"/>ter-Gate of <hi>Somerset-house;</hi> that Saturday▪ night that he was first missing from his House in <hi>Harts-horn-Lane,</hi> and that he then pas<g ref="char:EOLhyphen"/>sed close by Sir <hi>Edmond-Bury Godfrey,</hi> or words to that purpose. Whereupon this Deponent asked his said Nephew, are you sure that it was Sir <hi>Edmond-Bury Godfrey</hi> that you then met near <hi>Somerset House?</hi> how did you come to know him? to which his said Ne<g ref="char:EOLhyphen"/>phew made Answer, I know him very well, for I saw him almost daily pass by Mr. <hi>Breedens</hi> house, and he lived in <hi>Harts-horn-lane</hi> a little below my Masters Brew-house, or words to that purpose.</p>
+               <closer>
+                  <signed>Ralph Oakeley.</signed>
+                  <dateline>Jur: <date>4. die Julij 1682.</date>
+                  </dateline>
+                  <signed>Coram W. Dolbin.</signed>
+               </closer>
+            </div>
+            <div type="affidavit">
+               <head>The Affidavit of <hi>Robert Oakeley.</hi>
+               </head>
+               <p>
+                  <hi>RObert Oakely</hi> of <hi>Bisseter,</hi> in the County of <hi>Oxon</hi> Maulster, ma<g ref="char:EOLhyphen"/>keth Oath▪ that he being in <hi>London,</hi> on <hi>Saturday</hi> the 12th of <hi>October</hi> 1678 with his Son <hi>John Oakely,</hi> servant to Mr. <hi>Robert Bree<g ref="char:EOLhyphen"/>den</hi> of the Parish of St. <hi>Martins</hi> in the <hi>Fields,</hi> in the County of <hi>Middlesex Brewer,</hi> that this Deponent did then accompany his said Son <hi>John Oakely</hi> without <hi>Ludgate,</hi> and there parted with him about Nine a Clo<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k at N<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ght, and this Deponent went out of <hi>Town</hi> on the <hi>Thursday</hi> following before the Body of Sir <hi>Edmond-Bury Godfrey</hi> was found. And this Deponent further saith, that some short time af<g ref="char:EOLhyphen"/>ter, he coming to <hi>Town</hi> again, the said <hi>John Oakely</hi> his Son, then told this Deponent that upon <hi>Saturday</hi> the 12th day of <hi>October,</hi> 1678. Af<g ref="char:EOLhyphen"/>ter
+<pb n="46" facs="tcp:205793:6"/> he had parted from this Deponent upon <hi>Ludgate-Hill,</hi> as he went home to his said Masters House in <hi>Hartshorn-Lane,</hi> he saw Sir <hi>Ed<g ref="char:EOLhyphen"/>mond-Bury Godfrey;</hi> near <hi>Sumerset▪ House</hi> in the <hi>Strand,</hi> and then put off his Hat to him, and the said Sir <hi>Edmond-Bury Godfry</hi> thereupon put of his Hat to the said <hi>John Oakeley</hi> again, all which this De<g ref="char:EOLhyphen"/>ponent hath declared to several persons since that time.</p>
+               <closer>
+                  <signed>Robert Oakley.</signed>
+                  <dateline>Jurat <date>22. die Junij 1682.</date>
+                  </dateline>
+                  <signed>Coram me, John Moore Mayor.</signed>
+               </closer>
+            </div>
+            <div type="affidavit">
+               <head>The Affidavit of <hi>John Brown</hi> and <hi>William Lock.</hi>
+               </head>
+               <p>
+                  <hi>JOhn Brown</hi> and <hi>William Lock,</hi> both of the Parish of <hi>Maribone</hi> in the County of <hi>Middlesex,</hi> having been since subpaened to give Evidence for the King upon an Information in the Crown-Office, exhibited against <hi>Nathaniel Thomson, William Pain,</hi> and <hi>John Far<g ref="char:EOLhyphen"/>well,</hi> and not being called at their Tryal to give Evidence for the King, in open Court, each of them severally for themselves maketh Oath, that upon <hi>Thursday</hi> the 17th of <hi>October,</hi> 1678. The said <hi>John Brown,</hi> being then Constable of <hi>Maribone</hi> aforesaid, word was brought to him, that there was a man found dead in a Ditch near <hi>Primrose-Hill,</hi> whereupon this Deponent <hi>John Brown,</hi> charged this other Deponent <hi>William Lock,</hi> and several others to go along with him thither; and when they came to the place where the Body lay, the said Deponents <hi>John Brown</hi> and <hi>William Lock,</hi> went into the said Ditch, as also some other persons, which were then with them, some of which are since deceased. And the said Deponents viewing the Body in what Posture it lay, and finding a Sword thrust tho<g ref="char:EOLhyphen"/>row the Body, they each of them, the said Deponents, did feel un<g ref="char:EOLhyphen"/>der the Body, and found that the Pummel of the Sword-Hilt did not touch the Ground by a handfull; but not knowing whose Bo<g ref="char:EOLhyphen"/>dy it was, they the said Deponents and others that were then with them, pulled the Body out of the Ditch, and found that it was the Body of Sir <hi>Edmond-Bury Godfrey,</hi> with whom they were very well acquainted in his Life time.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>John Brown. </item>
+                        <item>The mark of <hi>William W. L. Lock.</hi>
+                        </item>
+                     </list>
+                  </signed>
+                  <dateline>Jurat <date>30 die Junij 1682.</date>
+                  </dateline>
+                  <signed>Coram me John Moore Mayor.</signed>
+               </closer>
+            </div>
+            <div type="affidavit">
+               <pb n="47" facs="tcp:205793:6"/>
+               <head>The Affidavit of <hi>Benj. Man.</hi>
+               </head>
+               <p>Benjamin Man <hi>of</hi> London, <hi>Gent. having been twice subpaened to give Evidence for the King upon an Information Exhibited in the</hi> Crown-Office <hi>against</hi> Nathaniel Thompson, William Pain <hi>and</hi> John Farewell: <hi>And not being called at their Tryal to give Evidence in open Court, maketh Oath, That about the time</hi> Green <hi>was Charged with the Murder of Sir</hi> Edmond-berry Godfrey, <hi>This Deponent coming to the Gate-House in the Morning, found the said</hi> Green <hi>about to be put in Irons, and Asking the Turn-Keys What was the matter? They told him that</hi> Green <hi>was Charged with the Murder of Sir</hi> Edmond-berry Godfrey. <hi>And then the said Deponent called to see his Warrant, and this Deponent read<g ref="char:EOLhyphen"/>ing of it, turn'd to Mr.</hi> Green <hi>and said I did not think to have found you such a man, whereupon</hi> Green <hi>replyed,</hi> I am a Dead Man, <hi>or Words to that purpose.</hi>
+               </p>
+               <closer>
+                  <signed>Benj. Man.</signed>
+                  <dateline>Jur. <date>3. die Julii, 1682.</date>
+                  </dateline>
+                  <signed>
+                     <hi>Coram me</hi> W. Dolben.</signed>
+               </closer>
+            </div>
+            <div type="affidavit">
+               <head>The Affidavit of <hi>Robert Forset.</hi>
+               </head>
+               <p>Robert Forset <hi>of</hi> Maribone, <hi>in the County of</hi> middlesex <hi>
+                     <abbr>Esq;</abbr> having been twice Subpaened to give Evidence for the King, upon an Information exhibited in the</hi> Crown-Office <hi>against</hi> Nathaniel Thomson, William Pain <hi>and</hi> John Farewell: <hi>And being not Called to give Evidence in open Court, maketh Oath, That</hi> Tuesday <hi>the fifteenth of</hi> October, 1678. <hi>being the</hi> Tuesday <hi>after that Sir</hi> Ed<g ref="char:EOLhyphen"/>mond-berry Godfrey <hi>was missing, he this Deponent was a hunting with his Pack of Hounds at the very place where the Body of Sir</hi> Edmond-berry Godfrey <hi>was afterwards found, and beat that very place with his hounds, and the Body was not then there, nor any Gloves nor Cane thereabout. The said Deponent further saith, That the same day Mr.</hi> Henry Harwood, <hi>requested him this Deponent that he would let him have his Hounds the next day after being</hi> Wednesday, <hi>and he would find that Hare which they
+<pb n="48" facs="tcp:205793:7"/> could not find on</hi> Tuesday, <hi>or words to that purpose. And this Deponent further saith, That he the said</hi> Harwood, <hi>hath several times since affirmed, That he did accordingly hunt in the same place and beat the same Ditch, and said that the Body was not there that</hi> Wednesday <hi>at Noon, which said</hi> Henry Harwood <hi>is now newly dead.</hi>
+               </p>
+               <closer>
+                  <signed>Robert Forset.</signed>
+                  <dateline>Jur. <date>1. die Julii, 1682.</date>
+                  </dateline>
+                  <signed>
+                     <hi>coram me</hi> W. Dolben.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <p>
+                  <hi>Vid.</hi> Green, Berry, <hi>and</hi> Hills <hi>Tryals, fol. 19. 20. As to the time of removing the Body and the Gloves, and other things upon the Bank.</hi>
+               </p>
+               <p>But because it may be thought strange that Protestants should Espouse the Cause of the Papists, it may be fit to give some Account what these Persons are, who have so zealously ap<g ref="char:EOLhyphen"/>peared in this matter; It is to be supposed (not without some ground) that <hi>Thompson</hi> (notwithstanding his pretence that he was drawn in) knew those things he Printed in the Letters or several of them to be falsities, for Mr. <hi>George Larkin</hi> does swear as follows:</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="affidavit">
+                           <head>The Affidavit of <hi>George Larkin.</hi>
+                           </head>
+                           <p>George Larkin <hi>of</hi> London <hi>Printer, maketh Oath, That having heard the Body of Sir</hi> Edmond-berry Godfrey <hi>was found, this Deponent on the Eighteenth of</hi> October, 1678. <hi>went to see the said Body, which then lay at the</hi> White House <hi>near</hi> Primrose-Hill, <hi>and there met with</hi> Nathaniel Thompson, <hi>of</hi> London <hi>also Printer, who then proposed to this Deponent the writing of a Narrative thereof to Print, wherein he desired this Deponents Assistance, and therefore wished this Deponent to take good notice of the Body and Circumstances, and promised to do the like himself, and this Deponent staid there with the said</hi> Thompson <hi>till the Coroners Jury sate on the said Body, and did see the said Body stripped. And this Deponent having conferred with the said</hi> Thompson, <hi>and agreeing with him in the circumstances; the
+<pb n="49" facs="tcp:205793:7"/> said Narrative, the same day was written in part in the said</hi> Thompson'<hi>s house, and being finished, was read over by this Deponent and the said</hi> Thompson, <hi>who agreed with this Depo<g ref="char:EOLhyphen"/>nonent in the truth thereof▪</hi>
+                           </p>
+                           <closer>
+                              <signed>George Larkin.</signed>
+                              <dateline>Jur. <date>22. die Martii, 1681.</date>
+                              </dateline>
+                              <hi>coram me</hi> J. Moore, <hi>Mayor.</hi>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>And upon this sight of the Body, and comparing of Notes with Mr. <hi>Larkin,</hi> he puts out a little Pamphlet intituled, <hi>A True and Perfect Narrative,</hi> &amp;c. in which there is a Paragraph or two quite contrary to what he Prints in the Letters, pray take it in the words of it.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>A True and Perfect Narrative of the late Terrible and Bloody Mur<g ref="char:EOLhyphen"/>ther of Sir</hi> Edmond-berry Godfrey, <hi>&amp;c. (with Allowance.) Printed by</hi> N. T. 1678.</head>
+               <p>ON <hi>Friday</hi> the Eighteenth of this Instant, Mr. <hi>Cooper</hi> the Coroner of <hi>Middlesex impannell'd</hi> a Jury at the <hi>White-House</hi> to Enquire about the occasion of the Death of the said Sir <hi>Edmond-berry:</hi> and two Chirurgions (having been first Sworn) removed the Body in the presence of the Coroner and Jury, and found the Wounds about it, which one of the Chirurgions searched with his <hi>Probe,</hi> and found one of them not above an Inch deep, the <hi>Probe</hi> going against one of his Ribs, but the other being a little below the left Pap, went quite through the Body, his Face was of a fresh colour, tho' in his Life time very pale, somewhat swelled, and a green Circle about his Neck, as if he had been strangled, his blood being setled about his Throat, and the upper part of his Breast, the Chi<g ref="char:EOLhyphen"/>rurgions having reviewed the Body, delivered their Judgments, That the Wounds they found about him were not the Cause of his Death; but that he was Suffocated before the Wounds were made. And that which may fully persuade any person of the Truth hereof is, That there was not one drop of Blood to be found in the place where he lay, nor the least appearance of any such thing, tho' the Ditch was dry, and it might have been easily seen if there
+<pb n="50" facs="tcp:205793:8"/> had been any. Another thing was, that the very bottom of the soles of his Shoes were as clean as if he had but just come out of his own Chamber, which was an evident sign that he was carried thither.</p>
+               <p>A third thing very remarkable is, That one of the Jury Af<g ref="char:EOLhyphen"/>firmed that a Servant of his Mothers (who is owner of the ground were the Body lay) with a Butcher and two Boys made a very strict and narrow search in all parts of that ground for a Calf that was missing upon <hi>Monday</hi> and <hi>Tuesday</hi> last, and at that time there lay no dead Body, Belt, Gloves, Stick, or other thing there.</p>
+               <p>And notwithstanding he gives himself the Name of the <hi>Loyal Protestant Printer,</hi> this is not the first time he hath been charged with Printing <hi>Popish. Books,</hi> (I take still these Letters and Libels to be a Limb of <hi>Popery</hi>) for <hi>Wednesday</hi> the thirtieth of <hi>October,</hi> 1678. he was Committed to the Gatehouse at <hi>Westminster,</hi> by the House of Lords for that very matter. As for Mr. <hi>Farewell,</hi> he was mightily afraid he should be taken for a <hi>Papist,</hi> Mr. Ser<g ref="char:EOLhyphen"/>jeant <hi>Maynard</hi> declared he thought he was of no Religion: but if he be, I know which is most like to justifie such Practises. But tho' I cannot say any thing as to his Religion, yet I have rea<g ref="char:EOLhyphen"/>son to think the <hi>Papists</hi> had a great kindness for him, for (not to mention other things) he was Trustee for <hi>Fenwick</hi> the <hi>Je<g ref="char:EOLhyphen"/>suite</hi> that was Fxecuted, and that I think will appear by the following Affidavit, and also a kind of Will made by the said <hi>Fenwick.</hi>
+               </p>
+            </div>
+            <div type="affidavit">
+               <pb n="51" facs="tcp:205793:8"/>
+               <head>
+                  <hi>The Affidavit of</hi> John Richardson.</head>
+               <p>
+                  <hi>John Richardson</hi> of the Parish of St. <hi>Clement Danes</hi> in the County of <hi>Middlesex,</hi> formerly Clark to <hi>Richard Langhorn</hi>
+                  <abbr>Esq;</abbr> executed (aged 36 years or thereabouts) Deposeth, that in or about the year 1670. Mr. <hi>John Farwel</hi> lately deputy Bayliff of <hi>Westminster,</hi> was employed by the said Mr. <hi>Lang<g ref="char:EOLhyphen"/>horn,</hi> in the cause between the Jesuits, <hi>Whitebread Poulten,</hi> and others, and one Mr. <hi>John Savage</hi> in a sutie in Chancery; Concerning <hi>Newenham Abby</hi> in <hi>Bedfordshier.</hi> And that in the year 1678. About <hi>Michaelmas</hi> day, there having for some time before been another suite in Chancery depending between one Mr. <hi>Goodlad,</hi> and the Jesuits executed and others, all the papers in the said cause being removed by the said Mr. <hi>Langhorns</hi> order, (before his Imprisonment) out of his Chamber. Mr. <hi>Farwell</hi> met this Deponent, and said to him, where are the papers in the Cause between the Jesuits and Mrs. <hi>Goodlad.</hi> The Deponent told him in the <hi>Temple,</hi> Mr. <hi>Farwell</hi> said he must have them brought to him, (to follow the suite that Mr. <hi>Langhorn</hi> had begun, So the Deponent carryed them to him the next day, and within some short time afterwards, the said cause was finally ended, as the deponent hath been since informed, Mr. <hi>Farwell</hi> was also Concerned for the Jesuits, as a Trustee for five hundred pounds of <hi>Fenwick</hi>'s mony, in <hi>Benjamin Hintons</hi> hands, found by a Jury and given as the Deponent is informed to the Sheriffs of <hi>London,</hi> Notwithstanding which he being Summoned on a Commission of Enquiry to <hi>Guildhal,</hi> about <hi>May</hi> last, and there examined if he had never been a Trustee for any of them, he said on his Oath <hi>No,</hi> yet after being charged with his being proved a Trustee for this <hi>Five Hundred Pound,</hi> (before the Jury) he then confessed he had forgot it: And owned he was a Trustee for the <hi>Five Hundred Pound</hi> before mentioned.</p>
+               <closer>
+                  <signed>John Richardson.</signed>
+                  <dateline>Jur. <date>3. die Aprilis, 1682.</date>
+                  </dateline>
+                  <signed>Coram <hi>me</hi> John Moore, <hi>Mayor.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="will">
+               <pb n="52" facs="tcp:205793:9"/>
+               <head>Fenwick <hi>the Jesuit that was Executed, his Will.</hi>
+               </head>
+               <p>I had taken from me when I was Apprehended and brought to Prison, two Goldsmiths Notes, one of 400 <hi>l.</hi> another of 100 <hi>l.</hi> the Money is in <hi>Benjamin Hinton</hi>'s hands at <hi>Birchin-Lane</hi> End in <hi>Lumbard-street.</hi> There were also two Bonds, each of 126 <hi>l.</hi> due to me from Mr. <hi>Samuel Tyrril,</hi> but the Bonds are made payable to Mr. <hi>John Farwell,</hi> and Mr. <hi>William Brewe.</hi>
+               </p>
+               <p>There was also a Bill of 50 <hi>l.</hi> due from Mrs. <hi>Olympia Wray.</hi>
+               </p>
+               <p>Of this I owe to Mr. <hi>Hamerton</hi> of <hi>Mark-road</hi> 100 <hi>l.</hi> which I had received from him with Order to pay it to another <hi>Gent.</hi> but had not paid it: also 40 <hi>l.</hi> to Mr. <hi>Edward Stockton,</hi> which I Received for him and had not paid it: also 10 or 15 <hi>l.</hi> (truly I rather believe 15 <hi>l.</hi>) which I received for Mr. <hi>Tho. Pordage,</hi> (who lives now beyond Seas, and had an Estate in <hi>Kent</hi> of 1000 <hi>l.</hi> a Year since the Kings Restauration, and is now reduced to that Poverty that this 20 <hi>l.</hi> is all he has to live on) from Mr. <hi>Tho. L<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>shington</hi> in <hi>Kent,</hi> by five or ten pound at a time, it being in part of an Annuity of 20 <hi>l.</hi> a year to be paid Quarterly.</p>
+               <p>Also 15 or 20 <hi>l.</hi> to <hi>Alice Kettlewell,</hi> who lives with the Lady <hi>Petre,</hi> for which she has my Note.</p>
+               <p>There are also several Deeds and Bonds betwixt the late Lord <hi>Widdrington,</hi> and <hi>George Collingwood</hi> of <hi>Eshington</hi> in <hi>Nor<g ref="char:EOLhyphen"/>thumberland,</hi>
+                  <abbr>Esq;</abbr> which the said <hi>George Collingwood</hi> Ordered me to deliver to Capt. <hi>Ralph Widdrington,</hi> upon the payment of 100 <hi>l.</hi> but the money not being paid, I desire the Writings may be restored to the said Mr. <hi>Collingwood,</hi> or his Heirs.</p>
+               <p>These several▪ Sums being paid, the rest of the money belongs to the House of St. <hi>Omers,</hi> for which I was employed.</p>
+               <p>I desire what money is paid in satisfaction of the Sums above<g ref="char:EOLhyphen"/>said, may be paid into the hands of Mr. <hi>John Farwell,</hi> Attorney at Law of <hi>Covent-Garden,</hi> who will take care to pay it to the persons to whom it belongs▪</p>
+               <p>I hope care will be taken to pay my Landlady my Chamber-Rent since my Imprisonment, also half a Year or three quarters of a Years Rent, which I was owing at the time of my Appre<g ref="char:EOLhyphen"/>hension, since all is taken from me and I cannot do it my self, she will tell you exactly the time, for I cannot.</p>
+               <pb n="53" facs="tcp:205793:9"/>
+               <p>As for Mr. <hi>Pain,</hi> I shall only say this, that he is brother to <hi>Nevill</hi> alias <hi>Pain,</hi> a man famous for making the Traytor <hi>Cole<g ref="char:EOLhyphen"/>man</hi>'s Elegy, and for being an Agent and Scribler for Mrs. <hi>Cellier</hi> and the <hi>Papists,</hi> yet that I may do him right, I must tell the World since the prosecution of him for this matter, he hath declared himself sorry for what he hath done, and not carried it so impudently as the others.</p>
+               <p>Thus I hope by Printing these Affidavits, the Murder of Sir <hi>Edmond-berry Godfrey</hi> by the <hi>Papists,</hi> does appear so clear and unquestionable, that no Persons (for the future) can assume the impudence to attempt any further Shams upon it, but at the same time must proclaim their Folly in so vain an Under<g ref="char:EOLhyphen"/>taking.</p>
+            </div>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
